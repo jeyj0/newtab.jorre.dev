@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "name": "jorre-dev-newtab",
+    "alias": ["newtab.jorre.dev"],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
+        }
+    ]
+}
